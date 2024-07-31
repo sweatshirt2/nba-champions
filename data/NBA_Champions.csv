@@ -1,0 +1,76 @@
+,year,west,east,winner,mvp,west coach,east coach
+0,1950,Lakers,Nationals,West,,John Kundla,Al Cervi
+1,1951,Royals,York,West,,Les Harrison,Joe Lapchick
+2,1952,Lakers,York,West,,John Kundla,Joe Lapchick
+3,1953,Lakers,York,West,,John Kundla,Joe Lapchick
+4,1954,Lakers,Nationals,West,,John Kundla,Al Cervi
+5,1955,Wayne,Nationals,East,,Charles Eckman,Al Cervi
+6,1956,Wayne,Warriors,East,,Charles Eckman,George Senesky
+7,1957,Louis,Celtics,East,,Alex Hannum,Red Auerbach
+8,1958,Louis,Celtics,West,,Alex Hannum,Red Auerbach
+9,1959,Lakers,Celtics,East,,John Kundla,Red Auerbach
+10,1960,Louis,Celtics,East,,Ed Macauley,Red Auerbach
+11,1961,Louis,Celtics,East,,Paul Seymour,Red Auerbach
+12,1962,Angeles,Celtics,East,,Fred Schaus,Red Auerbach
+13,1963,Angeles,Celtics,East,,Fred Schaus,Red Auerbach
+14,1964[c],Francisco,Celtics,East,,Alex Hannum,Red Auerbach
+15,1965,Angeles,Celtics,East,,Fred Schaus,Red Auerbach
+16,1966,Angeles,Celtics,East,,Fred Schaus,Red Auerbach
+17,1967,Francisco,76ers,East,,Bill Sharman,Alex Hannum
+18,1968,Angeles,Celtics,East,,Butch van Breda Kolff,Bill Russell
+19,1969,Angeles,Celtics,East,Jerry West,Butch van Breda Kolff,Bill Russell
+20,1970,Angeles,York,East,Willis Reed,Joe Mullaney,Red Holzman
+21,1971,Bucks,Bullets,West,Lew Alcindor,Larry Costello,Gene Shue
+22,1972,Angeles,York,West,Wilt Chamberlain,Bill Sharman,Red Holzman
+23,1973,Angeles,York,East,Willis Reed,Bill Sharman,Red Holzman
+24,1974,Bucks,Celtics,East,John Havlicek,Larry Costello,Tom Heinsohn
+25,1975,State,Bullets,West,Rick Barry,Al Attles,K. C. Jones
+26,1976,Suns,Celtics,East,Jo Jo White,John MacLeod,Tom Heinsohn
+27,1977[d],Trail,76ers,West,Bill Walton,Jack Ramsay,Gene Shue
+28,1978,SuperSonics,Bullets,East,Wes Unseld,Lenny Wilkens,Dick Motta
+29,1979,SuperSonics,Bullets,West,Dennis Johnson,Lenny Wilkens,Dick Motta
+30,1980,Angeles,76ers,West,Magic Johnson,Paul Westhead,Billy Cunningham
+31,1981,Rockets,Celtics,East,Cedric Maxwell,Del Harris,Bill Fitch
+32,1982,Angeles,76ers,West,Magic Johnson,Pat Riley,Billy Cunningham
+33,1983,Angeles,76ers,East,Moses Malone,Pat Riley,Billy Cunningham
+34,1984[e],Angeles,Celtics,East,Larry Bird,Pat Riley,K. C. Jones
+35,1985,Angeles,Celtics,West,Kareem Abdul-Jabbar,Pat Riley,K. C. Jones
+36,1986,Rockets,Celtics,East,Larry Bird,Bill Fitch,K. C. Jones
+37,1987,Angeles,Celtics,West,Magic Johnson,Pat Riley,K. C. Jones
+38,1988,Angeles,Pistons,West,James Worthy,Pat Riley,Chuck Daly
+39,1989,Angeles,Pistons,East,Joe Dumars,Pat Riley,Chuck Daly
+40,1990,Trail,Pistons,East,Isiah Thomas,Rick Adelman,Chuck Daly
+41,1991,Angeles,Bulls,East,Michael Jordan,Mike Dunleavy,Phil Jackson
+42,1992,Trail,Bulls,East,Michael Jordan,Rick Adelman,Phil Jackson
+43,1993,Suns,Bulls,East,Michael Jordan,Paul Westphal,Phil Jackson
+44,1994,Rockets,York,West,Hakeem Olajuwon,Rudy Tomjanovich,Pat Riley
+45,1995,Rockets,Magic,West,Hakeem Olajuwon,Rudy Tomjanovich,Brian Hill
+46,1996,SuperSonics,Bulls,East,Michael Jordan,George Karl,Phil Jackson
+47,1997,Jazz,Bulls,East,Michael Jordan,Jerry Sloan,Phil Jackson
+48,1998,Jazz,Bulls,East,Michael Jordan,Jerry Sloan,Phil Jackson
+49,1999[f],Antonio,York,West,Tim Duncan,Gregg Popovich,Jeff Van Gundy
+50,2000,Angeles,Pacers,West,Shaquille O'Neal,Phil Jackson,Larry Bird
+51,2001,Angeles,76ers,West,Shaquille O'Neal,Phil Jackson,Larry Brown
+52,2002,Angeles,Jersey,West,Shaquille O'Neal,Phil Jackson,Byron Scott
+53,2003,Antonio,Jersey,West,Tim Duncan,Gregg Popovich,Byron Scott
+54,2004,Angeles,Pistons,East,Chauncey Billups,Phil Jackson,Larry Brown
+55,2005,Antonio,Pistons,West,Tim Duncan,Gregg Popovich,Larry Brown
+56,2006,Mavericks,Heat,East,Dwyane Wade,Avery Johnson,Pat Riley
+57,2007,Antonio,Cavaliers,West,Tony Parker,Gregg Popovich,Mike Brown
+58,2008,Angeles,Celtics,East,Paul Pierce,Phil Jackson,Doc Rivers
+59,2009,Angeles,Magic,West,Kobe Bryant,Phil Jackson,Stan Van Gundy
+60,2010,Angeles,Celtics,West,Kobe Bryant,Phil Jackson,Doc Rivers
+61,2011,Mavericks,Heat,West,Dirk Nowitzki,Rick Carlisle,Erik Spoelstra
+62,2012[g],City,Heat,East,LeBron James,Scott Brooks,Erik Spoelstra
+63,2013,Antonio,Heat,East,LeBron James,Gregg Popovich,Erik Spoelstra
+64,2014,Antonio,Heat,West,Kawhi Leonard,Gregg Popovich,Erik Spoelstra
+65,2015,State,Cavaliers,West,Andre Iguodala,Steve Kerr,David Blatt
+66,2016,State,Cavaliers,East,LeBron James,Steve Kerr,Tyronn Lue
+67,2017,State,Cavaliers,West,Kevin Durant,Steve Kerr,Tyronn Lue
+68,2018,State,Cavaliers,West,Kevin Durant,Steve Kerr,Tyronn Lue
+69,2019,State,Raptors,East,Kawhi Leonard,Steve Kerr,Nick Nurse
+70,2020[h],Angeles,Heat,West,LeBron James,Frank Vogel,Erik Spoelstra
+71,2021,Suns,Bucks,East,Giannis Antetokounmpo,Monty Williams,Mike Budenholzer
+72,2022,State,Celtics,West,Stephen Curry,Steve Kerr,Ime Udoka
+73,2023,Nuggets,Heat,West,Nikola Jokić,Michael Malone,Erik Spoelstra
+74,2024,Mavericks,Celtics,East,Jaylen Brown,Jason Kidd,Joe Mazzulla
